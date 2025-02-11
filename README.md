@@ -1,5 +1,5 @@
-# visual
-EDA of Real World Smartphone Dataset
+
+#EDA of Real World Smartphone Dataset
 
 This project performs an Exploratory Data Analysis (EDA) on a dataset containing information about various smartphones. The dataset includes features such as brand, model, display size, camera specifications, battery capacity,price and more. The goal is to extract meaningful insights and visualize key trends in the data
 
